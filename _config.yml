@@ -1,6 +1,8 @@
 menu:
-  Home: /
-  Archives: /archives
+    Home: /
+    Archives: /archives
+    Categories: /categories
+    Tags: /tags
 
 # gitment
 gitment: false
@@ -11,8 +13,8 @@ gitment_client_secret:
 
 # valine comment
 valine: false
-leancloud_id: 
-leancloud_key: 
+leancloud_id:
+leancloud_key:
 
 # disqus comment
 disqus: false

@@ -1,0 +1,17 @@
+categories: 분류
+tags: 태그
+prev: 이전
+next: 다음
+comment: 코멘트
+archive_a: 아카이브
+archive_b: "아카이브: %s"
+page: "%d 페이지"
+recent_posts: 최근글
+
+Home: 첫 페이지
+Archives: 아카이브
+Categories: 분류
+Tags: 태그
+About: 소개
+Links: 링크
+RSS: RSS
